@@ -40,4 +40,4 @@ Install dependencies and run npm run dev
 Start trading on Binance Futures!
 
 📌 Disclaimer
-This project is for educational purposes only. Crypto futures trading involves significant risk and may not be suitable for all investors. Use it responsibl
+This project is for educational purposes only. Crypto futures trading with leverage involves high significant risk and may not be suitable for all investors. Use it responsible!
