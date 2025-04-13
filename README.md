@@ -1,5 +1,6 @@
 A real-time web application for crypto futures trading built with Next.js, using WebSockets for live market data and Binance Futures API for seamless order execution. This project offers an intuitive UI for tracking markets, placing trades, and managing risk efficiently — all in one dashboard.
 
+ Well U can check out the real project live -->  🔗 Live Demo: https://k9txtrade.vercel.app
 🛠️ Features
 📊 Real-time crypto market data via WebSocket (Binance Futures)
 
